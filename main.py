@@ -14,7 +14,7 @@ for c in range(0, sheet.ncols):
     l = sheet.col_values(c, 1, sheet.nrows)
     print("list: ", l)
 #TODO: get the time from the excel sheet and print its description and run in background.
-
+#TODO:
 #print(sheet.cell_value(0, 0))
 
 '''
